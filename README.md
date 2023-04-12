@@ -1,2 +1,2 @@
-# Automated-Standardization-
+# Automated-Standardization
 Cardiac MRI Standardization using quantitative phantom 
